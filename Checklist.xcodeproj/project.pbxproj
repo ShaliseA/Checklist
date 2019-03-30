@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F9B1A1D6224D414F00321D4A /* AddItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B1A1D5224D414F00321D4A /* AddItemTableViewController.swift */; };
 		F9BD807D2243DD21002A862D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BD807C2243DD21002A862D /* AppDelegate.swift */; };
 		F9BD807F2243DD21002A862D /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BD807E2243DD21002A862D /* ChecklistViewController.swift */; };
 		F9BD80822243DD21002A862D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9BD80802243DD21002A862D /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F9B1A1D5224D414F00321D4A /* AddItemTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemTableViewController.swift; sourceTree = "<group>"; };
 		F9BD80792243DD21002A862D /* Checklist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Checklist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9BD807C2243DD21002A862D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9BD807E2243DD21002A862D /* ChecklistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				F9BD80882243DD22002A862D /* Info.plist */,
 				F9BD8090224413C5002A862D /* ChecklistItems.swift */,
 				F9BD809222442589002A862D /* TodoList.swift */,
+				F9B1A1D5224D414F00321D4A /* AddItemTableViewController.swift */,
 			);
 			path = Checklist;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9BD807F2243DD21002A862D /* ChecklistViewController.swift in Sources */,
+				F9B1A1D6224D414F00321D4A /* AddItemTableViewController.swift in Sources */,
 				F9BD8091224413C5002A862D /* ChecklistItems.swift in Sources */,
 				F9BD807D2243DD21002A862D /* AppDelegate.swift in Sources */,
 				F9BD809322442589002A862D /* TodoList.swift in Sources */,
